@@ -14,9 +14,14 @@ Multilingual Rapid Automatic Keyword Extraction (RAKE) for Python
    :target: https://www.codefactor.io/repository/github/vgrabovets/multi_rake
    :alt: CodeFactor
 
+
+This is a fork of https://github.com/vgrabovets/multi_rake with cld2 dependency removed
+to make installation easier.
+
+
 Features
 --------
-- Automatic keyword extraction from text written in any language
+- (Removed) Automatic keyword extraction from text written in any language
 - No need to know language of text beforehand
 - No need to have list of stopwords
 - 26 languages are currently available, for the rest - stopwords are generated from provided text
