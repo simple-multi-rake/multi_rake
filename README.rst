@@ -21,8 +21,8 @@ to make installation easier.
 
 Features
 --------
-- (Removed) Automatic keyword extraction from text written in any language
-- No need to know language of text beforehand
+- Automatic keyword extraction from text written in any language
+- (Removed) No need to know language of text beforehand
 - No need to have list of stopwords
 - 26 languages are currently available, for the rest - stopwords are generated from provided text
 - Just configure rake, plug in text and get keywords (see implementation details)
